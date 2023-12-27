@@ -8,7 +8,7 @@ The objective of this project is to create concise and meaningful summaries from
 
 ### SAMSum Dataset
 
-The SAMSum dataset contains conversations crafted by linguists familiar with English. These conversations mimic daily conversational styles, encompassing varying levels of formality, slang usage, emoticons, and typos. Each conversation in the dataset is paired with a summary annotated by linguists. The summaries aim to provide a concise overview of the conversation's content in the third person.
+The SAMSum dataset contains conversations crafted by linguists familiar with English. These conversations mimic daily conversational styles, encompassing varying levels of formality, slang usage, emoticons, and typos. Each conversation in the dataset is paired with a summary annotated by linguists. 
 
 ## Features
 
