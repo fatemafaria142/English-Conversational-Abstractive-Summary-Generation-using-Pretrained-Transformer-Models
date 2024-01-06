@@ -1,4 +1,4 @@
-# English Conversational Abstractive Summary Generation using Pretrained Transformer Models
+# English Conversational Abstractive Summary Generation 
 
 This repository contains code and resources for generating abstractive summaries from conversational English text using state-of-the-art pretrained Transformer models, specifically T5 and mT5. The project utilizes the SAMSum dataset, which comprises approximately 16,000 messenger-like conversations with corresponding summaries.
 
